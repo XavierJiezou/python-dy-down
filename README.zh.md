@@ -5,7 +5,7 @@
 ![demo.gif](/demo.gif) 
 # 安装
 ```bash
-pip install requests tqdm
+pip install -r requirements.txt
 ```
 # 用法
 1. 克隆仓库后运行`down.py`。
